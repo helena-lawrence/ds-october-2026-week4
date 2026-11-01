@@ -1,0 +1,11 @@
+id,human_score,llm_score,agreement,within_one,reason
+1,5,5,1,1,"Fully faithful to the review: it accurately captures the positive build quality assessment and the recommendation, with no added claims."
+2,4,4,1,1,Accurately captures the core complaint that the item broke after one day and conveys the negative experience. It adds a mild interpretation ('poor quality') that is reasonable but not explicitly stated.
+3,5,5,1,1,Fully faithful to the original review and captures both the positive value-for-money sentiment and the recommendation.
+4,5,5,1,1,"The summary is fully faithful to the review, capturing both the high price complaint and the lack of recommendation without adding anything unsupported."
+5,5,5,1,1,"Fully faithful to the original review: it captures the next-morning delivery and the recommendation of the seller, with no added inaccuracies."
+6,5,5,1,1,Accurately captures the only points in the review: the delivery was ten days late and the reviewer cannot recommend it.
+7,5,5,1,1,"Fully faithful to the original review, capturing both the packaging praise and the intent to buy again without adding anything unsupported."
+8,4,5,0,1,"Fully faithful to the review: it captures the damaged packaging and the reviewer’s unwillingness to buy again, without adding unsupported details."
+9,5,5,1,1,Fully faithful to the review: it captures the quick issue resolution by customer service and the recommendation.
+10,5,5,1,1,Fully faithful to the review and captures the main complaint and recommendation clearly and concisely.

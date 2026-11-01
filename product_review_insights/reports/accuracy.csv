@@ -1,0 +1,4 @@
+technique,aspects,rating_guess,would_recommend,average_accuracy
+zero_shot,95.0,100.0,100.0,98.3
+few_shot,90.0,100.0,100.0,96.7
+role_based,95.0,100.0,100.0,98.3
